@@ -1,0 +1,4 @@
+# For macos - to get the right combination of tensorflow, keras, numpy and skcikit-learn
+# I used these exact steps in this order (and pip only - no conda)
+tensorflow
+scikit-learn

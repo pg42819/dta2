@@ -1,0 +1,15 @@
+# Environment for MacOS with Pro M1
+
+channels:
+  - districtdatalabs
+  - mcs07
+  - bokeh
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - pandas
+  - scikit-learn
+  - pip:
+    - tensorflow==2.13.0  # latest on mac as of 12-aug-2024
+    - tensorflow-metal==1.0.1  # specific for Apple Silicon (Mac M1, M2, M3, etc)

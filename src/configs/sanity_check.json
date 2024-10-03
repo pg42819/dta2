@@ -1,0 +1,7 @@
+{
+  "data_file": "/Users/cwerner/um/src/nuno/EMBL_Interaction/src/data/smaller_data.pkl",
+  "training_start": 0,
+  "training_size": 100,
+  "validation_size": 10,
+  "test_size": 10
+}
